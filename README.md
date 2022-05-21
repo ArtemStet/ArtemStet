@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Artem Stetsenko
 - 👀 I’m interested in Python learning, data science and finding new job
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on data science or data analysis projects
 - 📫 How to reach me stetsenkoart@gmail.com
 
